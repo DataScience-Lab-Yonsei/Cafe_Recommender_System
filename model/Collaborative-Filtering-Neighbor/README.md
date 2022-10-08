@@ -62,5 +62,5 @@
 
 
 ## 레퍼런스
-책 <Python을 이용한 개인화 추천 시스템> - 임일
+책 <Python을 이용한 개인화 추천 시스템> - 임일  
 http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788959727667
