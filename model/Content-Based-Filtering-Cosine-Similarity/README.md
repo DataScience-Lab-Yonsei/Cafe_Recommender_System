@@ -49,7 +49,7 @@
 - 성능을 측정할 정확한 지표(RMSE)가 없다는 것이 한계점이지만, 동일한 카페에 대해 추천해주는 리스트를 보면 Vector모델이 Binary 모델에 비해 훨씬 특징을 잘 고려한 효과적인 추천을 해주는 것을 알 수 있음!
 
 ## 레퍼런스
-https://lsjsj92.tistory.com/568
+https://lsjsj92.tistory.com/568  
 https://pearlluck.tistory.com/666
 
 
