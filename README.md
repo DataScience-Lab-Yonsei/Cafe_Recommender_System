@@ -4,6 +4,7 @@
   
 ## DSL 22-2 modeling project C조 - 조 이름 추천해조😏
 팀원 : 김경한 김지희 박지은 이승주 이재우  
+[프로젝트 발표 영상 링크 (1:06:16~1:24:24)](https://youtu.be/QVdFWApKydw) 
   
   
 
